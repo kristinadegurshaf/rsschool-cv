@@ -27,8 +27,6 @@ ___
 
 + __portfolio1__ 
 + __portfolio2__ 
-+ __portfolio1__ 
-+ __portfolio2__ 
 
  
 _ _ _
